@@ -6,5 +6,5 @@
     "forwardPorts": [
         80
     ],
-    "initializeCommand": "bash -c 'nohup /opt/trame/entrypoint.sh &'"
+    "overrideCommand": false
 }
