@@ -1,0 +1,12 @@
+trame:
+  cmd:
+    - python
+    - -m
+    - trame.app.demo
+    - --host
+    - ${host}
+    - --port
+    - ${port}
+    - --authKey
+    - ${secret}
+    - --server

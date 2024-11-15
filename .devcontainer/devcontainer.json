@@ -1,0 +1,10 @@
+
+{
+    "build": { 
+        "dockerfile": "Dockerfile" 
+    },
+    "forwardPorts": [
+        80
+    ],
+    "initializeCommand": "bash -c 'nohup /opt/trame/entrypoint.sh &'"
+}
