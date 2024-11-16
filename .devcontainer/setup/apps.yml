@@ -10,3 +10,7 @@ trame:
     - --authKey
     - ${secret}
     - --server
+pan3d:
+  app: xr-viewer
+  args:
+    - --wasm

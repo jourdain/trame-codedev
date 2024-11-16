@@ -1,3 +1,7 @@
+# demo
 trame
 trame-vtk
 trame-vuetify
+
+# pan3d
+pan3d[all]
