@@ -4,5 +4,6 @@ RUN /opt/trame/entrypoint.sh build
 
 RUN apt-get update \
     && apt-get install -y \
-      git \
+        libxrender1 \
+        git \
     && rm -rf /var/lib/apt/lists/*
