@@ -14,3 +14,9 @@ pan3d:
   app: xr-viewer
   args:
     - --wasm
+  www_modules:
+    - pan3d.ui.css.base
+    - pan3d.ui.css.preview
+    - pan3d.ui.css.vtk_view
+catalog:
+  app: xr-catalog
