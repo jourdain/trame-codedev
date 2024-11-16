@@ -1,7 +1,7 @@
-# demo
+# trame cone demo
 trame
 trame-vtk
 trame-vuetify
 
-# pan3d
+# pan3d + catalog
 pan3d[all]>=0.10.2
