@@ -4,4 +4,4 @@ trame-vtk
 trame-vuetify
 
 # pan3d
-pan3d[all]
+pan3d[all]>=0.10.2
